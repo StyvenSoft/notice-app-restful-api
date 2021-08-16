@@ -25,3 +25,13 @@ REST API from scratch with Node.js, TypeScript, and MongoDB (Mongoose).
 2. Bootstrap application
 4. Build out registration
 5. Build out post CRUD operations
+
+Start mongodb from terminal
+```sh
+$ mongod
+```
+
+```sh
+curl http://localhost:1337/healthcheck
+```
+
